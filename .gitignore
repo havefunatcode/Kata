@@ -1,0 +1,25 @@
+# Build output
+build/
+out/
+bin/
+
+# Gradle
+.gradle/
+.gradletasknamecache
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE specific files
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Kotlin
+.kotlin/
+
+# OS specific
+.DS_Store
+
+# Log files
+*.log
