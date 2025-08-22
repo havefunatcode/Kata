@@ -13,6 +13,7 @@ subprojects {
 
     dependencies {
         "testImplementation"(kotlin("test"))
+        "testImplementation"("org.assertj:assertj-core:3.26.3")
     }
 
     tasks.withType<Test> {
