@@ -39,7 +39,7 @@ An example statement would be:
 ### Improve
 
 -[ ] deposit, withdraw 동시성
--[ ] Account를 관리하는 1급 객체 생성
--[ ] Account를 관리하는 1급 객체를 사용하여 ID를 사용하여 계좌 조회 후 deposit, withdraw 진행
+-[x] Account를 관리하는 1급 객체 생성
+-[x] Account를 관리하는 1급 객체를 사용하여 ID를 사용하여 계좌 조회 후 deposit, withdraw 진행
 
 Link: [Banking Kata](https://kata-log.rocks/banking-kata)
